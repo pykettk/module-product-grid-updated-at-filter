@@ -1,5 +1,5 @@
 {
-    "name": "element119/module-product-updated-at-filter",
+    "name": "element119/module-product-grid-updated-at-filter",
     "type": "magento2-module",
     "description": "A Magento 2 module that allows admins to filter product's by their updated at timestamp.",
     "license": "OSL-3.0",
