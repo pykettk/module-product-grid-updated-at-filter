@@ -1,0 +1,23 @@
+{
+    "name": "element119/module-product-updated-at-filter",
+    "type": "magento2-module",
+    "description": "A Magento 2 module that allows admins to filter product's by their updated at timestamp.",
+    "license": "OSL-3.0",
+    "authors": [
+        {
+            "name": "Kiel Pykett",
+            "email": "pykettk@gmail.com"
+        }
+    ],
+    "require": {
+        "magento/module-catalog": "^104.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Element119\\ProductUpdatedAtFilter\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
