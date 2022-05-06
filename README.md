@@ -19,7 +19,11 @@
 
 ---
 
+<div align="center">
+
 This module will be abandoned once the [related pull request](https://github.com/magento/magento2/pull/35436) has been accepted and deployed as part of the Magento core.
+
+</div>
 
 ---
 
