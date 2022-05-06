@@ -19,6 +19,10 @@
 
 ---
 
+This module will be abandoned once the [related pull request](https://github.com/magento/magento2/pull/35436) has been accepted and deployed as part of the Magento core.
+
+---
+
 ## 📝 Features
 ✔️ Adds the product's `updated_at` attribute to the admin product grid to allow admins to see when a product was last modified
 
