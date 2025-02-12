@@ -6,6 +6,8 @@
 
 <h1 align="center">element119 | Product Grid Updated At Filter</h1>
 
+This is part of the Magento core as of `2.4.6-p1`.
+
 <div align="center">
 
 ![status](https://img.shields.io/badge/status-active-5fc238.svg)
@@ -69,15 +71,3 @@ php bin/magento setup:upgrade
 
 2. Filter and sort the grid as normal for the `Updated At` date
 ![updated-at-filter](https://user-images.githubusercontent.com/40261741/166080332-2db1206b-1aff-47ea-81b4-13955f66cade.png)
-
-<br>
-
----
-
-<div align="center">
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/pykettk)
-
-For those that want to support this project.
-
-</div>
