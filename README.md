@@ -6,8 +6,6 @@
 
 <h1 align="center">element119 | Product Grid Updated At Filter</h1>
 
-This is part of the Magento core as of `2.4.6-p1`.
-
 <div align="center">
 
 ![status](https://img.shields.io/badge/status-active-5fc238.svg)
